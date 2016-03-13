@@ -1,0 +1,28 @@
+name: fullasagoog
+favicon: null
+layout_spectrum: 0.6048231807071716
+typography_spectrum: 0.9427892768289894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.481511271558702
+  lightness: 0.8188322857022285
+  saturation: 0.405478103319183
+  rhythmicContrast: 0.8818662303965539
+purpose: []
