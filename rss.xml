@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[fullasagoog]]></title>
+        <description><![CDATA[fullasagoog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 14 Mar 2016 00:44:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[here is the news]]></title>
+            <description><![CDATA[<article><h1>here is the news</h1><p>coming to you every hour up on the hour via the idea tank; guarded by barry the octopus of doom.</p></article>]]></description>
+            <link>undefinedhere-is-the-news/index.html</link>
+            <guid isPermaLink="false">c3746ba6-a686-4559-a623-39ac5e855ccc</guid>
+            <pubDate>Mon, 14 Mar 2016 00:44:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
